@@ -10,4 +10,4 @@ Sawada | Chihiro
 
 [多摩大学] (http://www.tama.ac.jp/)
 
-GitHub supports emoji!  
+GitHub supports emoji! ::smile::
